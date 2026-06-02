@@ -2,25 +2,38 @@
 
 This repository documents my SQL learning progress.
 
-I am using this repo to practice SQL basics, write simple queries, and build confidence with relational databases.
-
-I will upload here code snippets and excerices from Codefinity Courses.
+I use this repo to practice SQL, organize course-based exercises, and build confidence with relational databases step by step.
 
 ## What I am learning
 
-* Basic SQL syntax
-* SELECT statements
-* Filtering data with WHERE
-* Sorting data with ORDER BY
-* Aggregate functions
-* GROUP BY
-* JOIN basics
+* Basic and intermediate SQL syntax
+* Retrieving data with `SELECT`
+* Filtering data with `WHERE`
+* Sorting results with `ORDER BY`
+* Aggregate functions such as `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`
+* Grouping data with `GROUP BY` and `HAVING`
+* Nested subqueries
+* Joining tables
+* Basic DDL and DML operations
+
+## Repository content
+
+This repository includes SQL exercises and code snippets from my learning journey, mainly based on Codefinity courses.
+
+## Courses
+
+| Course                | Status      |
+| --------------------- | ----------- |
+| Introduction to SQL   | Completed   |
+| Intermediate SQL      | Completed   |
+| SQL from Zero to Hero | In progress |
+| Data Analyst with SQL | Planned     |
 
 ## Purpose
 
 The purpose of this repository is to track my SQL practice and learning progress.
 
-SQL is one of the skills I am learning as part of my path toward QA and test automation.
+SQL is one of the technical skills I am learning as part of my path toward QA, databases, and future test automation.
 
 ## Status
 
