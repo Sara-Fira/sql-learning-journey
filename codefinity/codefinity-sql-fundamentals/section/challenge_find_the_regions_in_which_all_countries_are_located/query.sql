@@ -1,3 +1,0 @@
-SELECT DISTINCT region
-FROM country
-LIMIT 4;
