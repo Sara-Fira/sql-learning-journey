@@ -1,6 +1,6 @@
 # SQL Fundamentals
 
-This folder contains my exercises from the Codefinity Introduction to SQL course.
+This folder contains my exercises from the Codefinity SQL Fundamentals course.
 
 ## Topics covered
 
