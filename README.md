@@ -24,10 +24,10 @@ This repository includes SQL exercises and code snippets from my learning journe
 
 | Course                | Status      |
 | --------------------- | ----------- |
-| Introduction to SQL   | Completed   |
-| Intermediate SQL      | Completed   |
-| SQL from Zero to Hero | In progress |
-| Data Analyst with SQL | Planned     |
+| Codefinity - Introduction to SQL   | Completed   |
+| Codefinity - Intermediate SQL      | Completed   |
+| Codefinity - SQL from Zero to Hero | In progress |
+| Codefinity - Data Analyst with SQL | Planned     |
 
 ## Purpose
 
